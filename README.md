@@ -1,7 +1,5 @@
-# Assignment 3 — Network Traffic Analysis Using Wireshark
+# Network Traffic Analysis Using Wireshark
 
-**Student:** Akinsola Peniel Olaoluwa  
-**Assignment:** 3 — Network Traffic Analysis using Wireshark  
 **Tool:** Wireshark  
 **Capture interface:** eth0  
 
